@@ -12,7 +12,7 @@ The goal of this lab is to move beyond simple automation and create systems that
 
 | Project Name | Status | Domain | Technical Highlights |
 | --- | --- | --- | --- |
-| **[01-Intelligent Obstacle Detection and_Ranging System](https://www.google.com/search?q=./01-Ultrasonic-Radar)** |  Completed | *Embedded Systems / Signals* | Solved "specular reflection" and acoustic crosstalk issues using statistical filtering (Median Filter) and a split-rail power architecture for noise isolation. |
+| **[01-Intelligent Obstacle Detection and_Ranging System](https://github.com/DamodarBarhate100/AI-Robotics-Projects/tree/main/Intelligent_Obstacle_Detection_and_Ranging_System)** |  Completed | *Embedded Systems / Signals* | Solved "specular reflection" and acoustic crosstalk issues using statistical filtering (Median Filter) and a split-rail power architecture for noise isolation. |
 | **Micro-Doppler Classification** | Research Phase | *Deep Learning / RF Sensing* | Investigating the use of Machine Learning to classify target types based on micro-motion frequency signatures (Doppler effect) rather than just distance. |
 
 
