@@ -2,7 +2,7 @@
 
 # AI-Robotics-Lab
 
-### *Bridging the Gap Between Embedded Systems, Signal Processing, and Machine Learning*
+### *Bridging the Gap Between Embedded Systems, Artificial Intelligence and Machine Learning*
 
 Welcome to my personal research repository. I am a **3rd-year Computer Science Undergraduate** focused on the intersection of hardware control and intelligent algorithms.
 
