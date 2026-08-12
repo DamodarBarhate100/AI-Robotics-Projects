@@ -1,18 +1,22 @@
 #include <Arduino.h>
+#include "JARVIS.h"
 
-// put function declarations here:
-int myFunction(int, int);
-
+JARVIS J1;
 void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+    
+    Serial.begin(115200);
+    J1.initialize();
+    delay(3000);
+    J1.move_servo(2,-45);
+    delay(3000);
+    J1.move_servo(2,0);
+    delay(3000);
+    J1.move_servo(2,90);
+    delay(3000);
+    J1.move_servo(2 ,-90);
+
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-}
 
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
 }
