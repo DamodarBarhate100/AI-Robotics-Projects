@@ -1,6 +1,6 @@
 # JARVIS – Open Legged Robotic Platform
 
-> **Version:** v0.1 – Hardware & Foundation
+> **Version:** v0.2.1 - Voice controlled Wi-Fi commands
 
 ## Project Status
 
@@ -18,9 +18,9 @@ The project follows an incremental development approach, where each version intr
 
 ## Current Version
 
-**Version:** v0.1 – Hardware & Foundation
+**Version:** v0.2.1 - Voice controlled Wi-Fi commands
 
-This release establishes the hardware foundation of the robot, including the mechanical structure, electronics architecture, power distribution, and development environment.
+This release adds voice-controlled wireless interaction to the JARVIS quadruped platform.
 
 ---
 
@@ -28,7 +28,10 @@ This release establishes the hardware foundation of the robot, including the mec
 
 | Version | Status | Description |
 |----------|:------:|-------------|
-| **v0.1** | Current | Hardware & Foundation |
+| **v0.1** | Completed | Hardware & Foundation |
+| **v0.2** | Completed | Servo Control Architecture |
+| **v0.2.1** | Completed | Voice-Controlled Wi-Fi Robot Interface |
+
 
 ---
 
