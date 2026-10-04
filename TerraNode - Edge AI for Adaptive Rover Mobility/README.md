@@ -45,3 +45,42 @@ MPU6050 IMU + Motor Current Data
        Terrain Classification
               ↓
         ESP32 Inference
+
+---
+
+# Future Development
+
+## Version 1.1 — Engineering Refinement
+
+**Status: Planned**
+
+The next version will focus on improving the reliability and architecture of the current TerraNode platform.
+
+Planned improvements:
+
+- Modular and object-oriented C++ firmware
+- Ultrasonic obstacle detection
+- Improved sensor and motor-control architecture
+- Better data logging and runtime reliability
+- Improved hardware integration
+
+---
+
+## Version 2 — Self-Preserving Adaptive Mobility
+
+**Status: Planned / Research Direction**
+
+Version 2 will move beyond terrain classification toward understanding the rover's own mobility condition.
+
+The main goal is to investigate whether TerraNode can detect conditions such as increasing resistance, wheel slip, or impending entrapment and autonomously adapt its driving behavior.
+
+```text
+Sensor Data
+    ↓
+Mobility Estimation
+    ↓
+Slip / Resistance Detection
+    ↓
+Adaptive Control
+    ↓
+Recovery Behavior
