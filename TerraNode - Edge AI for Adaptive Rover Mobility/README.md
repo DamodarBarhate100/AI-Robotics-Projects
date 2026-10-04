@@ -47,7 +47,7 @@ MPU6050 IMU + Motor Current Data
         ESP32 Inference
 
 ---
-
+```
 # Future Development
 
 ## Version 1.1 — Engineering Refinement
